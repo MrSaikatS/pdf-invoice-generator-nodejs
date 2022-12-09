@@ -1,0 +1,20 @@
+{
+	"name": "pdf-invoice-generator-nodejs",
+	"version": "0.5.0",
+	"description": "PDF Invoice Generator in Nodejs",
+	"main": "app.js",
+	"type": "module",
+	"scripts": {
+		"start": "node app.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MrSaikatS/pdf-invoice-generator-nodejs.git"
+	},
+	"author": "Saikat Sardar",
+	"license": "GPL-3.0",
+	"bugs": {
+		"url": "https://github.com/MrSaikatS/pdf-invoice-generator-nodejs/issues"
+	},
+	"homepage": "https://github.com/MrSaikatS/pdf-invoice-generator-nodejs#readme"
+}
