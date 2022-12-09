@@ -16,5 +16,8 @@
 	"bugs": {
 		"url": "https://github.com/MrSaikatS/pdf-invoice-generator-nodejs/issues"
 	},
-	"homepage": "https://github.com/MrSaikatS/pdf-invoice-generator-nodejs#readme"
+	"homepage": "https://github.com/MrSaikatS/pdf-invoice-generator-nodejs#readme",
+	"dependencies": {
+		"nanoid": "4.0.0"
+	}
 }
