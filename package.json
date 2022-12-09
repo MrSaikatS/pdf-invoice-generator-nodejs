@@ -1,6 +1,6 @@
 {
 	"name": "pdf-invoice-generator-nodejs",
-	"version": "0.5.0",
+	"version": "0.5.5",
 	"description": "PDF Invoice Generator in Nodejs",
 	"main": "app.js",
 	"type": "module",
