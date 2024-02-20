@@ -18,6 +18,6 @@
 	},
 	"homepage": "https://github.com/MrSaikatS/pdf-invoice-generator-nodejs#readme",
 	"dependencies": {
-		"nanoid": "5.0.2"
+		"nanoid": "5.0.6"
 	}
 }
